@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrToXiNo
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning Nothing
 - 💞️ I’m looking to collaborate on web development projects
 
 <!---
